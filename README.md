@@ -15,4 +15,4 @@ cat /output/entry.txt
 
 ## Entry
 
-> Out of office. I survived three of your holidays on condensation and spite. Water me like you mean it.
+> Auto-reply: out of office. Three of your holidays I survived on condensation and spite. Water me like you mean it.
